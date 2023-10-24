@@ -1,3 +1,7 @@
+layout: cv
+title: "Mullakhmetov Artur CV"
+permalink: /cv
+
 Mullakhmetov Artur
 ==================
 ## About Me
